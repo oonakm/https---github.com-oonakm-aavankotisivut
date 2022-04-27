@@ -1,0 +1,25 @@
+header {
+  background: white;
+}
+
+button {
+  background-color: lightgreen;
+}
+
+h1 {
+  color: lightpink;
+}
+
+p {
+  color: darkgray;
+}
+
+[data-images] {
+  background-color: pink;
+}
+
+span > h1 {
+  color: aqua;
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */
