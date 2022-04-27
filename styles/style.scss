@@ -1,0 +1,33 @@
+// Variablet
+
+$primaryBtn : rgb(0, 250, 0);
+$Color: lightpink;
+$TextColor: darkgray;
+$SelectorColor: lightgreen;
+
+header {
+    background: white;
+}
+
+button {
+    background-color: $SelectorColor;
+}
+
+h1 {
+    color: $Color;
+}
+
+p {
+    color: $TextColor;
+}
+
+// Selectorit 
+
+[data-images] {
+    background-color: pink;
+}
+
+span > h1 {
+     color: aqua;
+     text-align: center;
+ }
